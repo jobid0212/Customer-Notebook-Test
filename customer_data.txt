@@ -1,0 +1,5 @@
+name, age, email
+Eli, 18, 789@gmail.com
+Jaden, 16, 456@gmail.com
+Jared, 17, abc@gmail.com
+Henry, 17, hij@gmail.com
